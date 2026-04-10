@@ -21,5 +21,5 @@ Senior Data Analyst specializing in Business Intelligence and Artificial Intelli
 Python, SQL, Power BI, Snowflake, Machine Learning, Cloud (Azure/AWS)
 
 ## 📫 Contact
-Montreal, QC  
+Québec, QC  
 Bilingual (FR/EN)
